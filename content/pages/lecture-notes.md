@@ -1,10 +1,13 @@
 ---
 content_type: page
+description: Slides from the professor's lectures.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
 title: Lecture Notes
 uid: ad448cc4-037f-1356-6bd7-86087b7e9f32
+video_metadata:
+  youtube_id: null
 ---
 
 \[Note: Not all class sessions have an associated lecture file.\] 
@@ -72,7 +75,7 @@ Lectures
 7
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link aa8cd6ca-5302-05c1-9a61-a93b6c8f98bf "Lecture 6: Regular Sound Change vs. Lexical Diffusion (PDF)" %}}
+{{% resource_link aa8cd6ca-5302-05c1-9a61-a93b6c8f98bf "Lecture 6: Regular Sound Change vs. Lexical Diffusion (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}

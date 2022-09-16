@@ -1,10 +1,13 @@
 ---
 content_type: page
+description: 'Descriptions of the required papers and final project. '
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
 title: Assignments
 uid: dd6efe84-262f-6ded-affb-a7350fedfee8
+video_metadata:
+  youtube_id: null
 ---
 
 {{< tableopen >}}
